@@ -8,6 +8,12 @@ var query =  "https://quizapi.io/api/v1/questions?apiKey="+ apiKey + categoryUrl
 
 console.log(query)
 
+// update todos
+
+// grab queestions translate then loop through
+// category dropdown
+// score
+// makle choices clickable
 
 // https://quizapi.io/api/v1/questions?apiKey=&category=code&difficulty=Easy&limit=10
 
